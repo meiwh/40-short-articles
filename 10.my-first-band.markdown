@@ -1,8 +1,14 @@
-### My First Band
+---
+layout: page
+title: My First Band
+permalink: /my-first-band
+---
 
 I was very sensitive to music. 
 
-Just dipping into the music books briefly, I could sing or play well. To be honest, I always dreamt of becoming a famous folk actor. 
+Just dipping into the music books briefly, I could sing or play well. 
+
+To be honest, I always dreamt of becoming a famous folk actor. 
 
 I was so confident that I never decreased my devotion.
 
